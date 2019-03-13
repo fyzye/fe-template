@@ -1,0 +1,17 @@
+{
+  "name": "app-name",
+  "repository": {},
+  "builder": "igroot-builder",
+  "options": {
+    "homepage": "index",
+    "port": 9527,
+    "theme": {},
+    "buildPath":"./docs/",
+    "esModule": [
+      "sso-login",
+      "igroot-form-container",
+      "igroot-router-config",
+      "igroot-frame-layout"
+    ]
+  }
+}
