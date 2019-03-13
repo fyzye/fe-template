@@ -7,7 +7,7 @@
     "port": 9527,
     "theme": {},
     "buildPath":"./docs/",
-    "publicPath":"./fe-template/",
+    "publicPath":"./",
     "esModule": [
       "sso-login",
       "igroot-form-container",
